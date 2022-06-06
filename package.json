@@ -1,7 +1,6 @@
 {
   "name": "fe3_jsEssential_class",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaram0205/fe3_jsEssential_class.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaaram0205/fe3_jsEssential_class/issues"
+  },
+  "homepage": "https://github.com/aaaram0205/fe3_jsEssential_class#readme",
+  "description": ""
 }
